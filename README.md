@@ -1,0 +1,1 @@
+Mad Libs in Python is a fun word game where users provide random words (nouns, verbs, adjectives, etc.), which are then inserted into a predefined story template to create a humorous or unexpected narrative.
